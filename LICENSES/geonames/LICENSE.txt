@@ -1,0 +1,13 @@
+Place-name data: GeoNames (https://www.geonames.org/)
+
+admin1CodesASCII.txt, countryInfo.txt and cities1000.txt are copies of the GeoNames export files
+(https://download.geonames.org/export/dump/), taken from snapshots of 29 to 30 October 2026 and not modified.
+
+This data is made available by GeoNames under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0). The full licence text is at:
+
+    https://creativecommons.org/licenses/by/4.0/legalcode
+
+Summary (not a substitute for the licence): you may share and adapt the data for any purpose, including
+commercially, provided you give appropriate credit to GeoNames, provide a link to the licence, and indicate if
+changes were made. The data is provided as is, without warranties of any kind.

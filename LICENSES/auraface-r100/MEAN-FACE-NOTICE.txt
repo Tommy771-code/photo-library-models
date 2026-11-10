@@ -1,0 +1,25 @@
+AuraFace mean face (face_mean_auraface_r100.npy)
+
+What it is: one unit vector of 512 float32 numbers, the average of 325 AuraFace R100 face embeddings. The app uses it for
+its vague-face test: a face as alike as this to the average says too little about who it is to start a person. No face,
+picture or person can be read back from an average of several hundred faces, and no face, crop, picture or per-face vector
+is shipped.
+
+Source: 325 faces of strangers in 188 everyday photos from the COCO 2017 dataset (https://cocodataset.org), originally
+published on Flickr, which form part of the app's clean-room test library. Faces were found by RetinaFace-R50 (score 0.85
+or more), aligned and embedded by the app's own code. Left out: every photo of a named or public person (the test
+library's people photos and the faces checked to be public figures), every photo not under one of the two licences below,
+and all of the app owner's photos (none were used at any step).
+
+Licences of the photos used (as COCO records them):
+  187 photos: Creative Commons Attribution 2.0 (COCO licence id 4, https://creativecommons.org/licenses/by/2.0/)
+    1 photo:  No known copyright restrictions (COCO licence id 7, Flickr Commons)
+Photos under CC BY-SA, or any NonCommercial or NoDerivatives licence, were not used.
+
+Attribution: the photographers of the photos listed in MEAN-FACE-CREDITS.csv (source URL and licence for each; COCO
+records no author name beyond the Flickr account at that URL). The averaged vector is offered under the same terms as
+the photos it was derived from require: credit to those photographers, as given here.
+
+Made: 10 Nov 2026, by the calibration's make_mean.py (kept with the bench, not shipped).
+Not legal advice: whether an average embedding is a derivative work of the photos at all is not settled here; the
+attribution above is given in case it is.

@@ -1,0 +1,221 @@
+{
+  "packs": [
+    {
+      "files": [
+        {
+          "asset": "geonames__admin1CodesASCII.txt",
+          "path": "geonames/admin1CodesASCII.txt",
+          "sha256": "2e4867f5397acb056ea26377601b57af37cb4c81399770225018e9e439e91ad3",
+          "size": 151571
+        },
+        {
+          "asset": "geonames__countryInfo.txt",
+          "path": "geonames/countryInfo.txt",
+          "sha256": "5c710efde90ee4cca15001c9f6a97ae7a74c7020b365504913ddc3afeb6d3671",
+          "size": 32115
+        },
+        {
+          "asset": "geonames__cities1000.txt",
+          "path": "geonames/cities1000.txt",
+          "sha256": "fd54fac1b0cfdd936d150200285cb6240f239dc15a6dd843e9dc682ba55d89e1",
+          "size": 32046906
+        },
+        {
+          "asset": "geonames__LICENSE.txt",
+          "path": "geonames/LICENSE.txt",
+          "sha256": "2a2ec758af7fcc482cc70d72e5f650e9c9ffd07b4cbcf757a5ede7ccc0338110",
+          "size": 764
+        }
+      ],
+      "gives": "Places and search by place",
+      "id": "places-names",
+      "label": "Place names",
+      "licence": "CC-BY-4.0",
+      "revision": "2026-11-06",
+      "tag": "places-names-2026-11-06",
+      "url": "https://github.com/Tommy771-code/photo-library-models/releases/download/places-names-2026-11-06/"
+    },
+    {
+      "files": [
+        {
+          "asset": "ppocr__det.onnx",
+          "path": "ppocr/det.onnx",
+          "sha256": "090f04abcd9d9a7498bc4ebf677e4cb9bdce1fe4197ddb7e529f1ef44e1ff94f",
+          "size": 9929594
+        },
+        {
+          "asset": "ppocr__cls.onnx",
+          "path": "ppocr/cls.onnx",
+          "sha256": "e47acedf663230f8863ff1ab0e64dd2d82b838fceb5957146dab185a89d6215c",
+          "size": 585532
+        },
+        {
+          "asset": "ppocr__rec_en.onnx",
+          "path": "ppocr/rec_en.onnx",
+          "sha256": "c3461add59bb4323ecba96a492ab75e06dda42467c9e3d0c18db5d1d21924be8",
+          "size": 7872351
+        },
+        {
+          "asset": "ppocr__rec_ta.onnx",
+          "path": "ppocr/rec_ta.onnx",
+          "sha256": "a42448808b7dea87597336f12438935f40353f1949e8360acd9e06b4da21bfe1",
+          "size": 7909926
+        },
+        {
+          "asset": "ppocr__LICENSE.txt",
+          "path": "ppocr/LICENSE.txt",
+          "sha256": "a07c2441e6f4be8c59d910dbf0fbad73bd27a20576528fbe055b73f25109d337",
+          "size": 11793
+        }
+      ],
+      "gives": "Reading text in photos",
+      "id": "text-reading",
+      "label": "Reading text",
+      "licence": "Apache-2.0",
+      "revision": "2026-11-06",
+      "tag": "text-reading-2026-11-06",
+      "url": "https://github.com/Tommy771-code/photo-library-models/releases/download/text-reading-2026-11-06/"
+    },
+    {
+      "files": [
+        {
+          "asset": "marqo-nsfw-384__marqo-nsfw-384.onnx",
+          "path": "marqo-nsfw-384/marqo-nsfw-384.onnx",
+          "sha256": "50256dde930a4ceeb8953246ba7345158e02cc0a201a173402ab3e6e3a76f40a",
+          "size": 22450955
+        },
+        {
+          "asset": "marqo-nsfw-384__LICENSE.txt",
+          "path": "marqo-nsfw-384/LICENSE.txt",
+          "sha256": "5b1b1e93da21b4cf316b828d18eee9cc89441efc19083859fec3fb479141c62e",
+          "size": 11672
+        }
+      ],
+      "gives": "Private-photo visual check",
+      "id": "visual-check",
+      "label": "Visual check",
+      "licence": "Apache-2.0",
+      "revision": "2026-11-06",
+      "tag": "visual-check-2026-11-06",
+      "url": "https://github.com/Tommy771-code/photo-library-models/releases/download/visual-check-2026-11-06/"
+    },
+    {
+      "files": [
+        {
+          "asset": "siglip2-base-256__siglip.json",
+          "path": "siglip2-base-256/siglip.json",
+          "sha256": "1c99a4b176c488edcec866ff0c28fb24b46b373afeda3bc90864bdcd957f5a45",
+          "size": 343
+        },
+        {
+          "asset": "siglip2-base-256__tokenizer.json",
+          "path": "siglip2-base-256/tokenizer.json",
+          "sha256": "cb9140fae3ac5122c972d37adf83e1248471a38147ad76f8215c8872c6fd8322",
+          "size": 34363039
+        },
+        {
+          "asset": "siglip2-base-256__vision.onnx",
+          "path": "siglip2-base-256/vision.onnx",
+          "sha256": "15848ddbd53b10f8612ade748e458222012859ee4c316c820863651dcecc50a7",
+          "size": 371968504
+        },
+        {
+          "asset": "siglip2-base-256__text.int8.onnx",
+          "path": "siglip2-base-256/text.int8.onnx",
+          "sha256": "cbc200932046cf390a659dee00635ce5ad7103f0ea8b180741d4970b54fc4c4a",
+          "size": 539538769
+        },
+        {
+          "asset": "siglip2-base-256__LICENSE.txt",
+          "path": "siglip2-base-256/LICENSE.txt",
+          "sha256": "ac29fcd8c4ba865ee5a839b7fcabf602d2c72dc46e4208203254c19a22d685bd",
+          "size": 11829
+        }
+      ],
+      "gives": "Search by description and similar photos",
+      "id": "search",
+      "label": "Search",
+      "licence": "Apache-2.0",
+      "revision": "2026-11-06",
+      "tag": "search-2026-11-06",
+      "url": "https://github.com/Tommy771-code/photo-library-models/releases/download/search-2026-11-06/"
+    },
+    {
+      "files": [
+        {
+          "asset": "retinaface-r50__retinaface-960.onnx",
+          "path": "retinaface-r50/retinaface-960.onnx",
+          "sha256": "7ffed1f751185a244dbbfd57a635df128bf34b6413520b6de9cbef21973b686a",
+          "size": 109106951
+        },
+        {
+          "asset": "retinaface-r50__LICENSE.txt",
+          "path": "retinaface-r50/LICENSE.txt",
+          "sha256": "a2709a958e748c018ce2c76d8e68fb54a4511caa69b3f3c3e0f67835f43715e6",
+          "size": 1363
+        },
+        {
+          "asset": "face-reid-0095__face-reidentification-retail-0095.onnx",
+          "path": "face-reid-0095/face-reidentification-retail-0095.onnx",
+          "sha256": "b4841272607d75a2c17057558ddaba76eb6f15827d71ec235ea30c13d51ebf75",
+          "size": 4452030
+        },
+        {
+          "asset": "face-reid-0095__LICENSE.txt",
+          "path": "face-reid-0095/LICENSE.txt",
+          "sha256": "1bbb49ca234338aba891899f3bbbe8b02611d61cf54deb1340405d7aedf57079",
+          "size": 11709
+        }
+      ],
+      "gives": "Recognising and grouping people",
+      "id": "faces",
+      "label": "People",
+      "licence": "R58-pending",
+      "revision": "2026-11-06",
+      "tag": "faces-2026-11-06",
+      "url": "https://github.com/Tommy771-code/photo-library-models/releases/download/faces-2026-11-06/"
+    },
+    {
+      "files": [
+        {
+          "asset": "florence-2-large__florence.json",
+          "path": "florence-2-large/florence.json",
+          "sha256": "b4ca92e2596e25d872a60d863cd62695423a8668af83642243a2c74db39e0294",
+          "size": 427
+        },
+        {
+          "asset": "florence-2-large__tokenizer.json",
+          "path": "florence-2-large/tokenizer.json",
+          "sha256": "847bbeab6174d66a88898f729d52fa8d355fafe1bea101cf960dd404581df70e",
+          "size": 1355863
+        },
+        {
+          "asset": "florence-2-large__encoder.onnx",
+          "path": "florence-2-large/encoder.onnx",
+          "sha256": "64f5eba5911f0d4c42660244c4bc603ca740ac4ca4ab470688b47df0c9e6eae5",
+          "size": 1193639338
+        },
+        {
+          "asset": "florence-2-large__decoder.onnx",
+          "path": "florence-2-large/decoder.onnx",
+          "sha256": "254338f02e6803e10fe42edc381ad1d41f09ba0fd89c3fd02186fe64be153474",
+          "size": 571607429
+        },
+        {
+          "asset": "florence-2-large__LICENSE.txt",
+          "path": "florence-2-large/LICENSE.txt",
+          "sha256": "2289b8d9fb7c21e61197d456a144e16efd70f99573b2701e1c4f43ff4280f21e",
+          "size": 1481
+        }
+      ],
+      "gives": "Photo descriptions",
+      "id": "descriptions",
+      "label": "Photo descriptions",
+      "licence": "MIT",
+      "revision": "2026-11-06",
+      "tag": "descriptions-2026-11-06",
+      "url": "https://github.com/Tommy771-code/photo-library-models/releases/download/descriptions-2026-11-06/"
+    }
+  ],
+  "schema": 1
+}
